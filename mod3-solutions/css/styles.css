@@ -1,0 +1,48 @@
+
+.navbar-brand{color:black;}
+.text-center{
+	font-weight: bold;
+}
+.contai{
+margin-bottom:45px;
+margin-top: 30px;
+margin-left: 15px;
+margin-right: 15px;}
+
+.first{
+	border:1px solid white;
+	background-color:black;
+
+}
+.second{
+	border:1px solid white;
+	background-color:black;
+}
+.third{
+	border:1px solid white;
+	background-color:black;
+}
+
+.first:hover{
+
+	background-color:white;
+}
+.second:hover{
+	background-color: white;
+}
+.third:hover{
+	background-color: white;
+}
+#chicken{
+	background-color:red;
+
+}
+#beef{
+	background-color: green;
+}
+#Sushi{
+	background-color: pink;
+}
+p{margin:auto;
+}
+
